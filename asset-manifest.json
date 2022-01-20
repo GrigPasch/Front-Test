@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GrigPasch/Front-Test.git/static/css/main.0c196540.css",
+    "main.js": "/GrigPasch/Front-Test.git/static/js/main.35c2c2e0.js",
+    "static/js/787.0fb8cbe0.chunk.js": "/GrigPasch/Front-Test.git/static/js/787.0fb8cbe0.chunk.js",
+    "index.html": "/GrigPasch/Front-Test.git/index.html",
+    "main.0c196540.css.map": "/GrigPasch/Front-Test.git/static/css/main.0c196540.css.map",
+    "main.35c2c2e0.js.map": "/GrigPasch/Front-Test.git/static/js/main.35c2c2e0.js.map",
+    "787.0fb8cbe0.chunk.js.map": "/GrigPasch/Front-Test.git/static/js/787.0fb8cbe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c196540.css",
+    "static/js/main.35c2c2e0.js"
+  ]
+}
