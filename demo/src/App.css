@@ -1,0 +1,39 @@
+button{
+  width: 145px;
+  height: 4em;
+  text-align: center;
+  background-color: rgba(63, 230, 208, 0.562);
+  border-style: 1.5px solid #000;
+  
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+button:hover{
+  box-shadow: 0 12px 16px 0 rgba(63, 230, 207, 0.808), 0 17px 50px 0 rgba(40, 175, 157, 0.808) ;
+}
+div .App{
+  padding-top: 15px;
+  padding-left: 45px;
+  text-align: center;
+}
+
+div .gallery{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  font-size: 15px;
+}
+
+body{
+  background-color: rgba(255, 255, 255, 0.7);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+ 
