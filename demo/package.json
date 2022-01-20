@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "homepage": "git@github.com:GrigPasch/Front-Test.git",
+  "homepage": "https://github.com/GrigPasch/front-test.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
