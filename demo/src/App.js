@@ -1,6 +1,4 @@
-import { breakpoints } from '@mui/system';
 import './App.css';
-import CustomBreakpoints from './Components/Breakpoints';
 import Counter from './Components/Counter';
 import PictureList from './Components/Picture';
 
@@ -12,13 +10,11 @@ function App() {
       </header>
       
       <body>
-      
-        <div className='gallery'>
-          <PictureList></PictureList>
-        </div>
-       
-        
+          <div>
+            <PictureList></PictureList>
+          </div>
       </body>
+      
     </div>
   );
 }
